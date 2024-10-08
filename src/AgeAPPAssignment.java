@@ -1,4 +1,4 @@
-public class AssignmentGIThub {
+public class AgeAPPAssignment {
 
     public static void main(String[] args) {
         int age = 100;
